@@ -1,3 +1,12 @@
+  
+  
+// Name: Hunter Strohbusch
+// Email: hstrohbusch@wisc.edu
+// Team: AD
+// Role: Test Engineer 1
+// TA: Sophie Stephenson
+// Lecturer: Gary Dahl
+
 import java.util.NoSuchElementException;
 
 public class Test {
